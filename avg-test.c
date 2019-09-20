@@ -1,4 +1,4 @@
-
+// comment
 #include "utst.h"
 
 int avg( int x, int y )
